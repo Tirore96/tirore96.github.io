@@ -5,19 +5,27 @@
 layout: page
 ---
 
-<img src="assets/photo.jpeg" width="150" alt="">
+<img src="assets/dawit_photo.jpeg" width="150" alt="">
 
+I completed my PhD at IT University of Copenhagen, with main
+supervisor Marco Carbone and co-supervisor Jesper Bengtson.
+During my PhD I mechanised the subject reduction result of Honda et
+al. [1] in Coq. The code can be found here.
 
-I am a PhD student at IT University of Copenhagen under supervision of Marco Carbone and Jesper Bengtson. I am part of their Program, Logics and Semantics group (PLS). I am interested in program verification through the use of proof assistants, as well as techniques in general for the analysis and verification of programming languages. I am currently working on a mechanisation of multi party session types, as they were initially formulated [1]. 
+I am interested in proof assistants and formal methods.
 
 ## Publications 
-* A sound and Complete Projection for Global Types (ITP23) [link](https://drops.dagstuhl.de/opus/volltexte/2023/18403/)
+* A sound and Complete Projection for Global Types publised at the
+Interactive Theorem Proving conference in 2023 [link](https://drops.dagstuhl.de/opus/volltexte/2023/18403/)
 
-## Mechanisation projects
+## Other projects
 * MSc thesis: A Propositional Calculus for Contract Specification (Coq) 
   [pdf](/assets/report.pdf) 
 * Verified Rewriting of MFOTL Formulas (Isabelle) [pdf](/assets/mfotl.pdf)
-* Soundness and Completeness of Verification Conditions wrt to Hoare Logic (Twelf)
+
+* A sound and complete projection
+
+(thesis preprint)
 
 
 \[1\]: Multiparty Asynchronous Session Types: Kohei Honda, Nobuko Yoshida, Marco Carbone 
