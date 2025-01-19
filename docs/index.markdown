@@ -10,7 +10,7 @@ layout: page
 I completed my PhD at IT University of Copenhagen, with main
 supervisor Marco Carbone and co-supervisor Jesper Bengtson.
 During my PhD I mechanised the subject reduction result of Honda et
-al. [1] in Coq. The code can be found here.
+al. [1] in Coq. The code can be found here. 
 
 I am interested in proof assistants and formal methods.
 
