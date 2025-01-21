@@ -12,7 +12,7 @@ supervisor Marco Carbone and co-supervisor Jesper Bengtson.
 During my PhD I mechanised subject reduction and communication safety,
 based on their formulation in Honda et al. [1]. This was carried out
 in the Coq Proof Assistant. The thesis can be found 
-[here](/assets/thesis.pdf) and links for developments are provided below.
+[here](/assets/thesis.pdf) and links for developments are provided below. 
 
 ## Projects with proof assistants
 
