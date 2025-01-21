@@ -5,7 +5,7 @@
 layout: page
 ---
 
-<img src="assets/photo.jpeg" width="150" alt="">
+<img src="assets/dawit_photo.jpeg" width="150" alt="">
 
 I pursued my PhD at IT University of Copenhagen with main
 supervisor Marco Carbone and co-supervisor Jesper Bengtson.
