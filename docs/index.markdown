@@ -38,4 +38,4 @@ Interactive Theorem Proving conference in 2023
   [pdf](/assets/report.pdf) [code](https://github.com/Tirore96/csl_derivatives)
 * PhD thesis: A Mechanisation of Multiparty Session Types [pdf](/assets/thesis.pdf)
 
-\[1\]: Multiparty Asynchronous Session Types: Kohei Honda, Nobuko Yoshida, Marco Carbone
+\[1\]: Multiparty Asynchronous Session Types: Kohei Honda, Nobuko Yoshida, Marco Carbone  
