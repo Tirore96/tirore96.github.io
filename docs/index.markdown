@@ -19,7 +19,7 @@ During my PhD I mechanised subject reduction and communication safety,
 based on their formulation in Honda et al. [1]. This was carried out
 in the Coq Proof Assistant. The thesis can be found
 [here](/assets/thesis.pdf) and links for developments are provided
-below. 
+below.  
 
 ## Publications 
 * (Coq) A sound and Complete Projection for Global Types publised in the
