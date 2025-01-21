@@ -11,7 +11,7 @@ I pursued my PhD at IT University of Copenhagen with main
 supervisor Marco Carbone and co-supervisor Jesper Bengtson.
 During my PhD I mechanised subject reduction and communication safety,
 based on their formulation in Honda et al. [1]. This was carried out
-in the Coq Proof Assistant. Links for developments are provided below. 
+in the Coq Proof Assistant. Links for developments are provided below.  
 
 ## Projects with proof assistants
 
