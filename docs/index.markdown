@@ -29,7 +29,7 @@ Interactive Theorem Proving conference in 2023
 ## Theses
 * MSc thesis: A Propositional Calculus for Contract Specification 
   [pdf](/assets/report.pdf) [code](https://github.com/Tirore96/csl_derivatives)
-* PhD thesis: A Mechanisation of Multiparty Session Types [pdf](/assets/revision2.pdf)
+* PhD thesis: A Mechanisation of Multiparty Session Types [pdf](/assets/thesis.pdf)
 
 
 ## Projects in Coq
