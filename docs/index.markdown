@@ -43,7 +43,7 @@ Interactive Theorem Proving conference in 2023
 
 ## Projects in Isabelle/HOL
 * Verified Rewriting of MFOTL Formulas [pdf](/assets/mfotl.pdf)
-  [code](https://github.com/Tirore96/verimon-rewriting) 
+  [code](https://github.com/Tirore96/verimon-rewriting)   
 
 
 
