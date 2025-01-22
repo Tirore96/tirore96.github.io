@@ -34,12 +34,11 @@ Interactive Theorem Proving conference in 2023
 
 ## Projects in Coq
 
-* Subject reduction for multiparty session types (Submitted to
-  ECOOP for review)
+* Subject reduction for multiparty session types (paper under review)
   [code](https://github.com/Tirore96/subject_reduction)
 
 * Computational interpretation of regular expression containment
-  proofs, based on the work of Henglein and Nielsen [2] (Report under development) [code](https://github.com/Tirore96/containment)
+  proofs, based on the work of Henglein and Nielsen [2] (report under development) [code](https://github.com/Tirore96/containment)
 
 ## Projects in Isabelle/HOL
 * Verified Rewriting of MFOTL Formulas [pdf](/assets/mfotl.pdf)
