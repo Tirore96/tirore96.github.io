@@ -24,24 +24,28 @@ below.
 ## Publications 
 * (Coq) A sound and Complete Projection for Global Types publised in the
 Interactive Theorem Proving conference in 2023
-[code](https://github.com/Tirore96/projection) [pdf](/assets/itp.pdf)
+[pdf](/assets/itp.pdf) [code](https://github.com/Tirore96/projection) 
 
 ## Theses
 * MSc thesis: A Propositional Calculus for Contract Specification (Coq) 
   [pdf](/assets/report.pdf) [code](https://github.com/Tirore96/csl_derivatives)
-* PhD thesis: A Mechanisation of Multiparty Session Types [pdf](/assets/thesis.pdf)
+* PhD thesis: A Mechanisation of Multiparty Session Types [pdf](/assets/revision2.pdf)
 
 
 ## Other projects involving proof assistants
-* (Isabelle) Verified Rewriting of MFOTL Formulas
-  [code](https://github.com/Tirore96/verimon-rewriting) [pdf](/assets/mfotl.pdf)
+* (Isabelle) Verified Rewriting of MFOTL Formulas [pdf](/assets/mfotl.pdf)
+  [code](https://github.com/Tirore96/verimon-rewriting) 
 
-* (Coq) Subject reduction for multiparty session types (Coq)
+* (Coq) Subject reduction for multiparty session types (Submitted to
+  ECOOP for review)
   [code](https://github.com/Tirore96/subject_reduction)
 
 * (Coq) Computational interpretation of regular expression containment
-  proofs [code](https://github.com/Tirore96/containment)
+  proofs, based on the work of Henglein and Nielsen [2] (Report under development) [code](https://github.com/Tirore96/containment)
 
 
 
-\[1\]: Multiparty Asynchronous Session Types: Kohei Honda, Nobuko Yoshida, Marco Carbone
+\[1\]: Kohei Honda, Nobuko Yoshida, Marco Carbone; Multiparty Asynchronous Session Types: 
+
+\[2\]: Fritz Henglein, Lasse Nielsen;
+Regular expression containment: coinductive axiomatization and computational interpretation
