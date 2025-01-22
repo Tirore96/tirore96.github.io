@@ -24,7 +24,7 @@ in contact on dawit.tirore@gmail.com
 ## Publications 
 * A sound and Complete Projection for Global Types publised in the
 Interactive Theorem Proving conference in 2023 
-[pdf](/assets/itp.pdf) [code](https://github.com/Tirore96/projection) 
+[pdf](/assets/itp.pdf) [code](https://github.com/Tirore96/projection)    
 
 ## Theses
 * MSc thesis: A Propositional Calculus for Contract Specification 
