@@ -7,7 +7,7 @@ layout: page
 
 <img src="assets/dawit_photo.jpeg" width="150" alt="">
 
-## Open to network
+## Open to networ
 I am interested in formal methods and their use in practice. Having
 spent now some years in academia, I now seek a research position in
 industry where formal methods are used in practice. Feel free to get
