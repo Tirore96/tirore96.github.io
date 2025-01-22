@@ -22,27 +22,28 @@ industry where formal methods are used in practice. Feel free to get
 in contact on dawit.tirore@gmail.com        
 
 ## Publications 
-* (Coq) A sound and Complete Projection for Global Types publised in the
+* A sound and Complete Projection for Global Types publised in the
 Interactive Theorem Proving conference in 2023
 [pdf](/assets/itp.pdf) [code](https://github.com/Tirore96/projection) 
 
 ## Theses
-* MSc thesis: A Propositional Calculus for Contract Specification (Coq) 
+* MSc thesis: A Propositional Calculus for Contract Specification 
   [pdf](/assets/report.pdf) [code](https://github.com/Tirore96/csl_derivatives)
 * PhD thesis: A Mechanisation of Multiparty Session Types [pdf](/assets/revision2.pdf)
 
 
-## Other projects involving proof assistants
-* (Isabelle) Verified Rewriting of MFOTL Formulas [pdf](/assets/mfotl.pdf)
-  [code](https://github.com/Tirore96/verimon-rewriting) 
+## Projects in Coq
 
-* (Coq) Subject reduction for multiparty session types (Submitted to
+* Subject reduction for multiparty session types (Submitted to
   ECOOP for review)
   [code](https://github.com/Tirore96/subject_reduction)
 
-* (Coq) Computational interpretation of regular expression containment
+* Computational interpretation of regular expression containment
   proofs, based on the work of Henglein and Nielsen [2] (Report under development) [code](https://github.com/Tirore96/containment)
 
+## Projects in Isabelle/HOL
+* Verified Rewriting of MFOTL Formulas [pdf](/assets/mfotl.pdf)
+  [code](https://github.com/Tirore96/verimon-rewriting) 
 
 
 \[1\]: Kohei Honda, Nobuko Yoshida, Marco Carbone; Multiparty Asynchronous Session Types
