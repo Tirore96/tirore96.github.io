@@ -19,7 +19,7 @@ below.
 I am interested in formal methods and their use in practice. Having
 spent now some years in academia, I now seek a research position in
 industry where formal methods are used in practice. Feel free to get
-in contact on dawit.tirore@gmail.com        
+in contact on dawit.tirore@gmail.com          
 
 ## Publications 
 * A sound and Complete Projection for Global Types publised in the
