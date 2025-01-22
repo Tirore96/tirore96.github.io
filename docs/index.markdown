@@ -51,4 +51,4 @@ Interactive Theorem Proving conference in 2023
 \[1\]: Kohei Honda, Nobuko Yoshida, Marco Carbone; Multiparty Asynchronous Session Types.
 
 \[2\]: Fritz Henglein, Lasse Nielsen;
-Regular expression containment: coinductive axiomatization and computational interpretation.
+Regular expression containment: coinductive axiomatization and computational interpretation
